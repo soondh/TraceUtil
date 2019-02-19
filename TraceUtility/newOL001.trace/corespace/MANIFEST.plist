@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paths</key>
+	<array>
+		<string>run1/core/extensions/com.apple.dt.instruments.ktrace.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.ktrace.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.app-modeling.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.production.dtac</string>
+		<string>run1/core/table-manager</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.sampling.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.time-profiler.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.cl-energy.dtac</string>
+		<string>run1/core/core-config</string>
+		<string>run1/core/uniquing</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.poi.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.poi.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.cl-energy.dtac</string>
+		<string>currentRun/core/uniquing</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.sampling.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.base.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.app-modeling.dtac</string>
+		<string>run1/core/extensions/com.apple.dt.instruments.time-profiler.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.production.dtac</string>
+		<string>currentRun/core/extensions/com.apple.dt.instruments.base.dtac</string>
+	</array>
+</dict>
+</plist>
